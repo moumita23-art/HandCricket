@@ -1,0 +1,5 @@
+{
+  "name": "Hand Cricket Pro",
+  "description": "A professional-grade Hand Cricket game featuring adaptive AI, multi-inning mechanics, and persistent leaderboard stats. Play against a computer that learns your patterns!",
+  "requestFramePermissions": []
+}
